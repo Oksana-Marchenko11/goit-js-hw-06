@@ -22,3 +22,14 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.gallery {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.item3 {
+  border: 10px solid;
+  border-radius: 25px;
+  border-color: black;
+}
